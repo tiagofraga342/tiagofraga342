@@ -6,7 +6,7 @@
 
 For english users
 
-- I'm a 18 years old guy that loves tech (simple as that)
+- I'm a 18 years old guy that loves tech (as simple as that)
 - I'm currently doing a building technician course :orange_book:
 - Future computer scientst :computer:
 - Fell free to contact me with the social media links below
