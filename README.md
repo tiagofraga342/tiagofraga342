@@ -1,16 +1,14 @@
 ## Olá! Sou Tiago Fraga :smiley:
-- Sou um jovem de 18 anos amante de tecnologia (simples assim hahaha)
+- Sou um jovem de 18 anos amante de tecnologia (simples assim)
 - Atualmente estudante do curso técnico de edificações :orange_book:
-- Futuro cientista da computação (maybeee) :computer:
-- Geek de nascença :ghost:
+- Futuro cientista da computação :computer:
 - Sinta-se livre para me chamar nas minhas redes sociais abaixo, será um prazer
 
 For english users
 
-- I'm a 18 years old guy that loves tech (simple as that hahaha)
+- I'm a 18 years old guy that loves tech (simple as that)
 - I'm currently doing a building technician course :orange_book:
-- Future computer scientst (maybeee) :computer:
-- Born geek :ghost:
+- Future computer scientst :computer:
 - Fell free to contact me with the social media links below
 
 <!-- HTML start here --!>
