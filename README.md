@@ -1,4 +1,4 @@
-## Olá! Sou Tiago Fraga :smiley:
+## Olá! Sou Tiago Fraga 
 - Tenho 19 anos e curto computação (simples assim)
 - Atualmente estudando Sistemas de Infomração na USP :computer:
 - Sinta-se livre para me chamar nas minhas redes sociais abaixo, será um prazer
