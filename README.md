@@ -5,7 +5,7 @@
 
 For english users
 
-- I'm 19 years old and I computer science (as simple as that)
+- I'm 19 years old and I study Information Systems at USP (as simple as that)
 - Currently studying Information Systems at USP :computer:
 - Fell free to contact me with the social media links below
 
