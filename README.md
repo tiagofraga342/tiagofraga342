@@ -1,12 +1,4 @@
-## Olá! Sou Tiago Fraga 
-- Tenho 19 anos e curto computação (simples assim)
-- Atualmente estudando Sistemas de Infomração na USP :computer:
-- Sinta-se livre para me chamar nas minhas redes sociais abaixo, será um prazer
-
-For english users
-
-- I'm 19 years old and I study Information Systems at USP (as simple as that)
-- Currently studying Information Systems at USP :computer:
+- I'm 20 years old student of Information Systems at Universidade de São Paulo
 - Fell free to contact me with the social media links below
 
 <!-- HTML start here --!>
